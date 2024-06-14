@@ -112,3 +112,16 @@ button:hover {
     font-size: 20px;
     margin-bottom: 20px;
 }
+
+.option-two-screen {
+    display: none;
+}
+.option-one-screen {
+    display: none;
+}
+.option-one-end {
+    display: none;
+}
+.option-two-end {
+    display: none;
+}
